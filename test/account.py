@@ -226,3 +226,4 @@ def declare(
         "tx_hash": extract_tx_hash(output.stdout),
         "class_hash": extract_class_hash(output.stdout),
     }
+#TODO clean my startknet tester similar to .THIS
